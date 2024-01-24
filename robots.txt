@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://historyofkhorinis.org/superjp/sitemap.xml
+Sitemap: http://historyofkhorinis.org/gilajp/sitemap.xml
+Sitemap: http://historyofkhorinis.org/gojekpot/sitemap.xml
+Sitemap: http://historyofkhorinis.org/winstrike69/sitemap.xml
+Sitemap: http://historyofkhorinis.org/slotgacor/sitemap.xml
+Sitemap: http://historyofkhorinis.org/slotzeus/sitemap.xml
+Sitemap: http://historyofkhorinis.org/kaptenjackpot/sitemap.xml
+Sitemap: http://historyofkhorinis.org/boosterjp/sitemap.xml
+Sitemap: http://historyofkhorinis.org/kerajaanslot/sitemap.xml
+Sitemap: http://historyofkhorinis.org/pakong86/sitemap.xml
+Sitemap: http://historyofkhorinis.org/viral88/sitemap.xml
+Sitemap: http://historyofkhorinis.org/clan4d/sitemap.xml
+Sitemap: http://historyofkhorinis.org/dinamit4d/sitemap.xml
+Sitemap: http://historyofkhorinis.org/elang212/sitemap.xml
+Sitemap: http://historyofkhorinis.org/gori77/sitemap.xml
+Sitemap: http://historyofkhorinis.org/viral4d/sitemap.xml
+Sitemap: http://historyofkhorinis.org/playground88/sitemap.xml
